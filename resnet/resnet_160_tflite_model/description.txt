@@ -1,0 +1,13 @@
+resnet_160----no data augmentation, no finetune, resize
+resnet_160_data----data augmentation, no finetune, resize
+resnet_160_finetune----no data augmentation, finetune,resize
+resnet_160_crop----no data augmentation, no finetune, crop
+resnet_160_data_crop----data augmentation, no finetune,crop
+resnet_160_finetune_data_crop----data augmentation,finetune,crop
+label"0"！！backward
+label"1"！！down
+label"2"！！forward
+label"3"！！left
+label"4"！！right
+label"5"！！up
+label"6"！！no gesture

@@ -1,0 +1,492 @@
+   text	   data	    bss	    dec	    hex	filename
+0x19430	 0x13a4	  0x3a8	 109436	  1ab7c	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1b000808 00000001 D camera_isAwaked	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/camera/himax.c:150
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000338 00000001 D __rt_hyper_pending_emu_do_memcpy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:53
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0122aa 00000002 T __flash_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/flash.c:33
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014a1c 00000002 W illegal_insn_handler_c	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/irq.c:89
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012a42 00000002 t __pi_host_fs_unmount	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0139ac 00000002 T pi_partition_table_free	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/partition.c:46
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01510a 00000002 T pi_task_push_delayed_us	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:273
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015c14 00000002 T __rt_fll_deinit	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:876
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015c16 00000002 T __rt_flls_constructor	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:880
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019680 00000003 d ToHWDCDC_Pos	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:192
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a3c 00000004 b __bsp_init_pads_done	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/bsp/ai_deck.c:28
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018adc 00000004 t ctor_list	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/init.c:29
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018b20 00000004 t dtor_list	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/init.c:30
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ac8 00000004 B first_delayed
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019660 00000004 D ImageIn	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:31
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ab4 00000004 B Output	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:32
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012b8a 00000004 t __pi_host_fs_direct_read_async
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a48 00000004 b __pi_hyper_cluster_reqs_first	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:62
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0149cc 00000004 T pi_open_from_conf	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/init.c:325
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0139ae 00000004 T pi_partition_table_load	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/partition.c:51
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019684 00000004 D PMURetentionState
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000003a4 00000004 D pwmEventsStatus	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pwm/pwm.c:9
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1000001c 00000004 D resnet_L1_Memory
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019664 00000004 D resnet_L2_Memory
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a30 00000004 B resnet_L3_Flash
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ab8 00000004 B resnet_L3_Memory	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019690 00000004 d RetPMUStateToPMUState	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:185
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ac4 00000004 B __rt_alloc_fc_tcdm
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019abc 00000004 B __rt_alloc_l1
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ac0 00000004 B __rt_alloc_l2
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000014 00000004 d __rt_bridge_eeprom_handle	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:25
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000010 00000004 d __rt_bridge_flash_cs	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:29
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000004 00000004 d __rt_bridge_flash_handle	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:26
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000000c 00000004 d __rt_bridge_flash_itf	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:28
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000008 00000004 d __rt_bridge_flash_type	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:27
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000003e0 00000004 D __rtc_handler	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:25
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:10000060 00000004 D __rt_cluster_fc_task_lock	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:59
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000018 00000004 D __rt_cluster_nb_active_pe
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ad8 00000004 B __rt_cluster_tasks	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:41
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1b0007ec 00000004 D __rt_debug_config
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1b0007e8 00000004 D __rt_debug_config_trace
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000014 00000004 D __rt_dma_first_pending
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000010 00000004 D __rt_dma_last_pending
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a44 00000004 b __rt_fc_cluster_device	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/pulpos_emu.c:25
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019654 00000004 V __rt_fc_stack_size	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/conf.c:36
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000018 00000004 D __rt_first_free
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000324 00000004 D __rt_hyper_current_task	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:27
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000320 00000004 D __rt_hyper_end_task	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:25
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a4c 00000004 b __rt_hyper_open_count	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:65
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000314 00000004 D __rt_hyper_pending_addr	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:33
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000030c 00000004 D __rt_hyper_pending_base	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:31
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000330 00000004 D __rt_hyper_pending_emu_addr	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:48
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000328 00000004 D __rt_hyper_pending_emu_channel	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:46
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000032c 00000004 D __rt_hyper_pending_emu_hyper_addr	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:47
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000034c 00000004 D __rt_hyper_pending_emu_length	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:51
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000334 00000004 D __rt_hyper_pending_emu_size	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:49
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000348 00000004 D __rt_hyper_pending_emu_size_2d	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:50
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000350 00000004 D __rt_hyper_pending_emu_stride	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:52
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000033c 00000004 D __rt_hyper_pending_emu_task	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:54
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000310 00000004 D __rt_hyper_pending_hyper_addr	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:32
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000318 00000004 D __rt_hyper_pending_repeat	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:34
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000031c 00000004 D __rt_hyper_pending_repeat_size	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:35
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000340 00000004 D __rt_hyper_pending_tasks	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:39
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000344 00000004 D __rt_hyper_pending_tasks_last	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016a80 00000004 T __rt_hyper_resume_copy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:988
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000308 00000004 D __rt_hyper_udma_handle
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a50 00000004 b __rt_i2s_first	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a34 00000004 V __rt_iodev
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019658 00000004 V __rt_iodev_uart_baudrate
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a38 00000004 V __rt_iodev_uart_channel
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a5c 00000004 b __rt_io_event_current	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a60 00000004 b __rt_io_pending_flush	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:50
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a68 00000004 b _rt_io_uart	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:38
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01965c 00000004 V __rt_platform
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a64 00000004 b __rt_putc_host_buffer_index	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:48
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000003dc 00000004 D __rt_rtc_init_done	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:26
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019ad4 00000004 B __rt_wakeup_use_fast	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:173
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a40 00000004 b timer_count	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time.c:23
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0152e6 00000006 T pi_cl_l1_malloc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:582
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015e0e 00000006 T pi_cluster_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:337
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012a68 00000006 t __pi_host_fs_seek	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:109
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0124ca 00000006 t __pi_read_fs_unmount	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:230
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015c18 00000006 T __rt_fll_set_freq	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:884
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019668 00000007 d SystemStateToSCUFastSeq	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:176
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0138b0 00000008 T extern_alloc_deinit	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/alloc_extern.c:128
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019688 00000008 D FllsFrequency
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01510c 00000008 T pi_cl_send_task_to_fc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:280
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0123a6 00000008 t pi_flash_read_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/include/bsp/flash.h:427
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01232c 00000008 T pi_fs_close	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:80
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012324 00000008 T pi_fs_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:74
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012334 00000008 T pi_fs_read_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:85
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01239e 00000008 T pi_fs_seek	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:150
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01231c 00000008 T pi_fs_unmount	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:68
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012364 00000008 T pi_fs_write_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:98
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019acc 00000008 B __rt_freq_domains
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016a78 00000008 T __rt_hyper_resume_emu_task	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:980
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000002b0 00000008 D __rt_socevents_status
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a54 00000008 b __rt_spim_open_count	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/spim/spim-v2.c:26
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014736 00000008 T semihost_close	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:18
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014790 00000008 T semihost_exit	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:47
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014702 00000008 T semihost_write0	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:6
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017984 0000000a T abort	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:739
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0147fc 0000000a T bsp_hyperflash_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/bsp/ai_deck.c:58
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012394 0000000a T pi_fs_copy_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:124
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0139a2 0000000a T pi_partition_get_flash_offset	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/partition.c:38
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016f82 0000000a T rt_extern_alloc_deinit	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc_extern.c:129
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0172c0 0000000a T __rt_himax_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/camera/himax.c:400
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019aa8 0000000c B cam_device	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:26
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a9c 0000000c B HyperRam	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:21
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01362a 0000000c T hyperram_free	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:169
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0152ec 0000000c T pi_cl_l1_free	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:587
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01229e 0000000c T pi_flash_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/flash.c:24
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012a36 0000000c t __pi_host_fs_mount	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:34
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0137b6 0000000c T pi_ram_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/ram.c:23
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000004 0000000c D __rt_cluster_pool
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016f1e 0000000c T __rt_padframe_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:58
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a6c 0000000c B uart_device	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:24
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012c22 0000000e t hyperflash_ioctl	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:284
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012c30 0000000e t hyperflash_set_reg_exec	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:94
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0146f4 0000000e t __internal_semihost	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.h:75
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019480 0000000e D model_name	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:33
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0152f8 0000000e T pi_l2_malloc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:595
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016fa4 0000000e T pi_pwm_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pwm/pwm-v1.c:46
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0172ee 0000000e t __rt_io_end_of_flush	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:366
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014806 00000010 T bsp_hyperflash_open
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0147ec 00000010 T bsp_hyperram_open
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013648 00000010 t hyperram_copy_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:133
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0176fa 00000010 T memset	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:150
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01634a 00000010 T pi_hyper_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:200
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015306 00000010 T pi_l2_free	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:600
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0123ec 00000010 t __pi_read_fs_seek	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:517
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019670 00000010 D PMUState
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1b00080c 00000010 d __rt_io_fc_lock	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:35
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01954c 00000010 V __rt_padframe_default	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:28
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01955c 00000010 V __rt_padframe_hyper	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:30
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01956c 00000010 V __rt_padframe_hyper_gpio	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:32
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a20 00000010 b __rt_uart	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:43
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01874e 00000010 T rt_uart_conf_init
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013636 00000012 t hyperram_copy_2d_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:145
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00105e 00000012 T main	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:291
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0122de 00000012 T pi_fs_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:26
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015c02 00000012 T __rt_fll_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:871
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0172ca 00000012 T __rt_rtc_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:414
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0172dc 00000012 T __rt_spim_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/spim/spim-v2.c:446
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016288 00000014 t l2_memcpy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:897
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0150f6 00000014 T __rt_event_sched_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:264
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:0000001c 00000014 D __rt_sched
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0176b0 00000014 T strcmp	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:97
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01664e 00000016 T pi_hyper_read_async	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:380
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01477a 00000016 T semihost_seek	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:36
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0176e4 00000016 T strlen	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:124
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0147d4 00000018 T bsp_hyperram_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/bsp/ai_deck.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1b0007f0 00000018 d cbsys_first	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:30
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019188 00000018 r FractionExpLUT	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_SoftMax.c:32
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019534 00000018 d hyperram_api	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:225
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0191a0 00000018 r IntegerExpLUT	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_SoftMax.c:27
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016a46 00000018 T pi_hyper_read_2d_async	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:420
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016686 00000018 T pi_hyper_write_async	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:400
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012456 00000018 t __pi_read_fs_copy_2d_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:657
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01243e 00000018 t __pi_read_fs_copy_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:648
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01957c 00000018 V __rt_padframe_profiles
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015316 00000018 t __rt_time_poweroff	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time.c:28
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01532e 00000018 t __rt_time_poweron	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time.c:37
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016f8c 00000018 T __rt_udma_channel_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/udma/udma-v2.c:89
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014f5e 00000018 T __rt_wait_event_prepare_blocking	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:42
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0178cc 0000001a T fputc_locked
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012d08 0000001a t hyperflash_copy_2d_async
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01370e 0000001a T pi_hyperram_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:235
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016a5e 0000001a T pi_hyper_write_2d_async	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:440
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016d70 0000001a T pi_uart_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:215
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014fec 0000001a T rt_event_get	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:105
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0150dc 0000001a T rt_event_wait	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:257
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017740 0000001a T strchr	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:278
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019760 0000001c b HyperFlash	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:6
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0131d6 0000001c t hyperflash_copy_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:843
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012b8e 0000001c t __pi_host_fs_close	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:67
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012c06 0000001c t __rt_event_enqueue	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/rt/rt_event.h:397
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014ca0 0000001c t __rt_event_enqueue	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/rt/rt_event.h:397
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0131f2 0000001e t hyperflash_close	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:275
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01360c 0000001e T hyperram_alloc	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:158
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01626a 0000001e T pi_pad_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pads/pads-v1.c:31
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013798 0000001e t __pi_ram_cluster_req_done	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/ram.c:37
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014de6 0000001e T __rt_bridge_set_available	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:725
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01473e 0000001e T semihost_read	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:24
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01475c 0000001e T semihost_write	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:30
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:10000020 00000020 d Reduct.16880
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:10000040 00000020 d Reduct.16947
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017abe 00000020 t _rlrshift	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/prf.c:122
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014cbc 00000020 t __rt_bridge_check_bridge_req.part.5	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:638
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0173e8 00000020 t rt_event_execute.isra.4.constprop.12	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:795
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015114 00000020 T rt_user_alloc_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:193
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0176c4 00000020 T strncmp	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:108
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013658 00000022 t hyperram_close	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:123
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016664 00000022 T pi_hyper_read	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:390
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01669e 00000022 T pi_hyper_write	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:411
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014e26 00000022 T __rt_bridge_clear_notif	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:838
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014e04 00000022 T __rt_bridge_send_notif	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:821
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015006 00000022 T rt_event_get_blocking	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:127
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016bc0 00000022 t __rt_uart_setfreq_after	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:316
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018656 00000022 t __rt_uart_setfreq_after	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:135
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014baa 00000022 T __rt_utils_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:84
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013b88 00000024 T flash_partition_table_free	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/flash_partition.c:221
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019a78 00000024 B hyper_conf	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:22
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0134ea 00000024 t hyperflash_erase	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:898
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01331a 00000024 t hyperflash_erase_chip	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:882
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0132f6 00000024 t hyperflash_erase_sector	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:890
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0133aa 00000024 t hyperflash_program	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:874
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01333e 00000024 t hyperflash_read	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:865
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013362 00000024 t hyperflash_reg_get	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:915
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013386 00000024 t hyperflash_reg_set	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:907
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015226 00000024 T __rt_alloc_init_l1	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:445
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01246e 00000024 t rt_event_enqueue	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/rt/rt_event.h:411
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012a44 00000024 t rt_event_enqueue	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/rt/rt_event.h:411
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01629c 00000024 t rt_event_enqueue	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/rt/rt_event.h:411
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015028 00000024 T rt_event_push	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:139
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0153c0 00000024 T rt_time_wait_us	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time.c:124
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018632 00000024 t __rt_uart_setup.isra.5	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:222
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014816 00000026 t cluster_start	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/init.c:198
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012b1c 00000026 t __pi_host_fs_read_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:74
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01860c 00000026 T __rt_uart_cluster_req_done	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:253
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0157fe 00000026 t soc_eu_fcEventMask_setEvent	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/soc_eu/soc_eu_v1.h:60
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018728 00000026 t soc_eu_fcEventMask_setEvent	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/soc_eu/soc_eu_v1.h:60
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01233c 00000028 T pi_fs_read	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:90
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01236c 00000028 T pi_fs_write	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:103
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0194b8 00000028 D __pi_host_fs_api
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0135e4 00000028 T pi_hyperflash_conf_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:969
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019490 00000028 D __pi_read_fs_api
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017078 00000028 t __pos_pwm_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pwm/pwm-v1.c:185
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0178e6 00000028 T _prf_locked	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:626
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0149a4 00000028 T __rt_deinit	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/init.c:163
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014f36 00000028 T __rt_event_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:32
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019adc 00000028 B __rt_fc_cluster_data
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017688 00000028 t __rt_io_stop	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:769
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016ef6 00000028 T rt_padframe_set	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:77
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000002b8 00000028 D __rt_udma_extra_callback
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000002e0 00000028 D __rt_udma_extra_callback_arg
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012af2 0000002a t __pi_host_fs_write_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:100
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01524a 0000002a T __rt_alloc_init_l1_for_fc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:452
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017218 0000002a t __rt_i2s_setfreq_after	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:235
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0132ca 0000002c t hyperflash_copy_2d	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:933
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0122f0 0000002c T pi_fs_mount	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01631e 0000002c T __pi_hyper_pin_reset_settings	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:189
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0162f2 0000002c T __pi_hyper_pin_settings	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:181
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017a00 0000002c T printf	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/fprintf.c:41
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0178a0 0000002c T puts	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:576
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017242 0000002c t __rt_i2s_setfreq_before	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:219
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019804 0000002c b __rt_pulpos_emu_global_cluster_task	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/pulpos_emu.c:26
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016ce2 0000002c t __rt_uart_setfreq_before	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:283
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0186ba 0000002c t __rt_uart_setfreq_before	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:102
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0150b0 0000002c T __rt_wait_event	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:247
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01470a 0000002c T semihost_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/semihost.c:11
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0157d2 0000002c t SetFllMultDivFactors
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0133ce 0000002e t hyperflash_copy	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:923
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016c72 0000002e t __pi_uart_copy_enqueue_exec.isra.14	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/udma/uart/udma_uart_v1.h:217
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0151f8 0000002e T rt_free
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016a84 0000002e t __rt_hyper_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:995
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01350e 00000030 t hyperflash_get_status_reg	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:184
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0151c8 00000030 T rt_alloc
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014b7a 00000030 T __rt_cbsys_exec	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:71
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0144ee 00000032 T MD5_Init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/crc/md5.c:207
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015eec 00000032 T pi_cluster_close	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:370
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0122ac 00000032 t pi_task_wait_on.isra.3	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/fs.c:148
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013298 00000032 t pi_task_wait_on.isra.3	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:219
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0162c0 00000032 t pi_task_wait_on.isra.4	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:1039
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014bcc 00000032 T __rt_fc_lock	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:92
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:000003a8 00000034 D dev_rtc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:24
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017b22 00000034 t _get_digit	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/prf.c:167
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019308 00000034 r __hyper_pad	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:164
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016236 00000034 T pi_pad_set_function	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pads/pads-v1.c:24
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017044 00000034 T pi_pwm_ioctl	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pwm/pwm-v1.c:108
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014f02 00000034 T __rt_bridge_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:851
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014bfe 00000034 T __rt_fc_unlock	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:127
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0171e4 00000034 t __rt_i2s_resume	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:186
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017478 00000034 t __rt_putc_host_cluster_req	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:451
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01883a 00000034 T rt_uart_cluster_write	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:277
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01770a 00000036 T memcpy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:159
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0171ae 00000036 T pi_gpio_pin_configure	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:146
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014c6a 00000036 T __rt_fc_cluster_unlock	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:199
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012492 00000038 t __pi_fs_free	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:122
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017126 00000038 T pi_gpio_pin_read	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:171
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014c32 00000038 T __rt_fc_cluster_lock	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:189
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014798 0000003c t __bsp_init_pads
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015f8e 0000003c T __rt_cluster_new	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:445
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015fca 0000003c t __rt_cluster_pulpos_emu_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/pulpos_emu.c:29
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0177b8 0000003c T __rt_putc_uart	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:412
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0123ae 0000003e t __pi_read_fs_write	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:499
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014b3c 0000003e T __rt_cbsys_add	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:57
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015794 0000003e T __rt_freq_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/freq.c:62
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012c3e 00000040 t hyperflash_stall_task	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:488
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0137c2 00000042 T pi_cl_ram_copy	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/ram.c:54
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0123fc 00000042 t __pi_read_fs_direct_read_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:624
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0129f4 00000042 t __pi_read_fs_read_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:586
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014e48 00000042 T __rt_bridge_printf_flush
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01734c 00000042 t __rt_do_putc_host	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:430
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0186e6 00000042 t __rt_uart_cluster_req	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:266
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016ca0 00000042 t __rt_uart_wait_tx_done.isra.17	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/udma/uart/udma_uart_v1.h:217
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018678 00000042 t __rt_uart_wait_tx_done.isra.6	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:222
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0134a6 00000044 t hyperflash_erase_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:826
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015b02 00000044 T InitFlls	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:858
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017ade 00000044 t _ldiv5	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/prf.c:143
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0165b2 00000046 t __pi_hyper_copy_exec
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014cdc 00000046 t __rt_bridge_wait
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012b42 00000048 t __pi_host_fs_copy_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:115
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019694 00000048 d __rt_uart	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:66
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015134 00000048 T rt_user_alloc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:207
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0161ec 0000004a T pi_cluster_send_task_to_cl	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster_call.c:149
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01574a 0000004a T rt_freq_set_and_get	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/freq.c:30
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016b76 0000004a t __rt_uart_setup	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:264
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014d9a 0000004c T __rt_bridge_check_connection
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0149d0 0000004c T rt_irq_set_handler	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/irq.c:61
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01517c 0000004c T rt_user_free	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:291
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012720 0000004e t __pi_read_fs_close
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0187ec 0000004e T rt_uart_close	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:228
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01715e 00000050 T pi_gpio_mask_configure	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:279
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014a1e 00000050 T __rt_handle_illegal_instr	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/irq.c:94
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0172fc 00000050 t __rt_io_uart_wait_req	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:315
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000354 00000050 D __rt_udma_channels
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0166c0 00000052 t exec_pending_task	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:867
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01385e 00000052 T extern_alloc_init	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/alloc_extern.c:104
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013592 00000052 t hyperflash_check_program	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:672
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01726e 00000052 T __rt_i2s_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:268
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014a6e 00000052 T __rt_irq_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/irq.c:103
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0194e0 00000054 d hyperflash_api	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:943
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01353e 00000054 t hyperflash_check_erase	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:708
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013070 00000056 t hyperflash_reg_set_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:311
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0165f8 00000056 t __pi_hyper_copy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:914
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015696 00000056 T __rt_periph_wait_event	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/periph-v2.c:237
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01655a 00000058 T __pi_hyper_copy_aligned	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:480
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0198b0 00000058 b __pos_pwm	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pwm/pwm-v1.c:43
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016f2a 00000058 T rt_extern_alloc_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc_extern.c:105
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013804 0000005a T pi_cl_ram_copy_2d	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/ram.c:71
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01738e 0000005a t __rt_io_start	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:746
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012baa 0000005c t __pi_host_fs_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:44
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016096 0000005c T rt_cluster_mount	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/pulpos_emu.c:68
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01886e 0000005c T __rt_uart_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:292
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0138b8 0000005e T extern_alloc	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/alloc_extern.c:135
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013178 0000005e t hyperflash_program_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:690
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0139b2 0000005e T pi_partition_find_first	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/partition.c:65
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0156ec 0000005e T __rt_periph_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/periph-v2.c:276
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01775a 0000005e T __rt_putc_debug_bridge	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:288
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013010 00000060 t hyperflash_reg_get_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:325
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016d0e 00000062 T __pi_uart_handle_copy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:68
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015c1e 00000062 t __rt_init_cluster_data	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:72
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015c80 00000064 t __rt_cluster_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:382
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01504c 00000064 T __rt_event_execute	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:189
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013bac 0000006c T flash_partition_find_first	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/flash_partition.c:228
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c000c74 0000006c t RunNN	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:35
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013728 00000070 t __pi_ram_cluster_req
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015f1e 00000070 T __rt_cluster_push_fc_event	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:413
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017408 00000070 t __rt_io_lock
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0174ac 00000070 t __rt_io_unlock
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01280a 00000072 t __pi_fs_read_cached	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:434
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016e84 00000072 T __pi_uart_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:630
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015274 00000072 T __rt_allocs_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/alloc.c:465
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01798e 00000072 T __rt_io_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:800
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013a10 00000074 T flash_partition_table_verify	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/flash_partition.c:80
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01790e 00000076 T exit	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:690
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012e94 00000076 t hyperflash_read_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:339
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014f76 00000076 T rt_event_alloc	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/events.c:52
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014d22 00000078 T __rt_bridge_handle_notif	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:644
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014e8a 00000078 T __rt_bridge_req_shutdown	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/bridge.c:774
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015346 0000007a T rt_event_push_delayed	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time.c:59
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00ccc2 0000007c T resnetCNN_Destruct	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4770
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014ac0 0000007c t __rt_fc_cluster_lock_req	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/utils.c:142
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019830 00000080 b __pi_hyper_temp_buffer	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:160
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0199a0 00000080 b __rt_io_event	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:39
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0196dc 00000080 d __rt_putc_host_buffer	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:47
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012a6e 00000084 t __pi_host_fs_copy_2d_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:126
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e404 00000086 t KerConv3x2from3x3Stride1_H_DP_fp.isra.61	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0170a0 00000086 T __pi_gpio_handler	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:54
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01977c 00000088 b bsp_fs_data	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/host_fs/host_fs.c:27
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013210 00000088 t hyperflash_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:224
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e6c6 00000088 t KerConv3x2from3x3Stride2_H_DP_fp.isra.64	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012c7e 0000008a t hyperflash_read_2d_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:351
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013916 0000008c T extern_free	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/alloc_extern.c:202
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0153e4 0000008c T __rt_time_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time.c:136
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01875e 0000008e T __rt_uart_open	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:151
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016be2 00000090 t __pi_uart_copy_enqueue_exec_flow_control
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016006 00000090 T rt_cluster_call	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/pulpos_emu.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015824 00000090 T __rt_pmu_cluster_power_down	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:205
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016fb2 00000092 T pi_pwm_open	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/pwm/pwm-v1.c:53
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0175f6 00000092 t __rt_io_uart_wait_pending	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:332
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017a2c 00000092 t _to_x	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/prf.c:44
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01367a 00000094 t hyperram_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/ram/hyperram/hyperram.c:40
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012960 00000094 t __pi_read_fs_try_read	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:537
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019908 00000098 b __rt_gpio	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:34
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e226 0000009a t KerConv1x1Stride2_Body_DP_2In_fp.isra.58	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c014520 0000009c T MD5_Update	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/crc/md5.c:218
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01276e 0000009c t __pi_read_fs_mount	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:242
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0169a8 0000009e t __pi_hyper_copy_2d	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:946
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0164ba 000000a0 T pi_hyper_close	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:337
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015994 000000a4 T InitOneFll	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:771
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c001532 000000a8 t __cl_dma_memcpy.constprop.12	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/riscv/riscv_v4.h:39
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00148a 000000a8 t __cl_dma_memcpy.constprop.13	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/riscv/riscv_v4.h:39
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0133fc 000000aa t hyperflash_erase_resume	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:765
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0177f4 000000ac t tfp_putc.isra.9	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:795
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0130c6 000000b2 t hyperflash_program_resume	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:603
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012de0 000000b4 t hyperflash_erase_chip_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:725
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00db9e 000000b4 T KerParSetBias_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_BiasReLULinear_BasicKernels.c:305
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015b46 000000bc T __rt_pmu_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:472
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012d22 000000be t hyperflash_erase_sector_async	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:744
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c019594 000000c0 D __hal_debug_struct
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016ab2 000000c4 t __pi_uart_flow_control_enable	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:553
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015a38 000000ca T __rt_pmu_cluster_power_up
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00df80 000000ce t KerConv2x3from3x3Stride1_V_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:1639
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00deae 000000d2 T KerDP_IO_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_BiasReLULinear_BasicKernels.c:2022
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00ddd8 000000d6 T KerDP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_BiasReLULinear_BasicKernels.c:1736
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015e14 000000d8 T pi_cluster_open	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:343
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e04e 000000da t KerConv2x3from3x3Stride2_V_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:1685
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01751c 000000da t __rt_io_uart_flush.constprop.11	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/io.c:795
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0158b4 000000e0 T SetFllFrequency
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01287c 000000e4 T __pi_fs_read	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:455
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015470 000000f2 T __rt_timer_handler	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/time_irq.c:30
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0160f2 000000fa T pi_cluster_send_task_to_cl_async	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster_call.c:65
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016d8a 000000fa T pi_uart_open	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/uart/uart.c:332
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e128 000000fe t KerConv1x1Stride2_Body_DP_fp.isra.16	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c018b28 00000100 R __clz_tab
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013a84 00000104 T flash_partition_table_load	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/partition/flash_partition.c:114
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c012f0a 00000106 t hyperflash_handle_pending_task	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/flash/hyperflash/hyperflash.c:365
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e5b2 00000114 t KerConv3x3Stride2_Body_DP_fp.isra.63	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00da7a 00000124 t KerReductIO_Compact_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_BiasReLULinear_BasicKernels.c:2000
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0124d0 00000126 t __pi_read_fs_open	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:295
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e48a 00000128 t KerConv3x3BorderStride1_DP_fp.isra.62	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0125f6 0000012a t __pi_fs_mount_step	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/fs/read_fs/read_fs.c:140
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015ce4 0000012a t __rt_cluster_mount_step	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/cluster.c:221
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e74e 00000132 t KerConv3x3BorderStride2_DP_fp.isra.65	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c015562 00000134 T rt_periph_copy	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/periph-v2.c:58
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0145bc 00000138 T MD5_Final	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/crc/md5.c:258
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e2c0 00000144 t KerConv3x3Stride1_Body_DP_fp.isra.60	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01635a 00000160 T pi_hyper_open	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:261
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c01483c 00000168 T __rt_init	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/init.c:74
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00dc52 00000186 T KerParLinearLayerReLU_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_BiasReLULinear_BasicKernels.c:1318
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00f6a6 000001aa T KerParConv3x3Stride1_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6397
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00b1ae 000001b0 T S74_SoftMax	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4264
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0117fa 000001cc T KerParPool2x2Stride2_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Pooling_BasicKernels.c:2494
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00f850 000001de T KerParConv3x3Stride2_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6432
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00f4b8 000001ee T KerParConv1x1Stride2_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6184
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00ac04 000001f0 T S70_AveragePool_2x2	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4112
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00fa2e 000001f8 T KerParConv7x7StrideS_DP_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6744
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:00000030 00000280 D periph_channels
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c016712 00000296 t __pi_hyper_copy_misaligned	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:806
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c009d5e 0000029e T S62_MatAdd_64x8x10	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3658
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00a966 0000029e T S69_MatAdd_64x8x10	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4038
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c011ca0 000002aa T KerParMatAddDynAdjust_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_MatAlgebra.c:52
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0119c6 000002da T KerParPoolNxNStrideS_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Pooling_BasicKernels.c:2522
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c011510 000002ea t KerAvgPoolNxNStrideS_Body_fp.isra.7	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/eu/eu_v3.h:66
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c011214 000002fc t KerMaxPoolNxNStrideS_Body_fp.isra.5	/home/bitcraze/projects/gap_sdk/install/GAP8_V2/include/hal/eu/eu_v3.h:66
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c010f10 00000304 t KerAvgPool2x2Stride2_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Pooling_BasicKernels.c:106
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00e880 0000030a t KerConv7x7StrideS_Body_DP_fp.constprop.100	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c000946 0000032e T __umoddi3	/home/haugoug/src/riscv-gnu-toolchain/riscv-gcc/libgcc/libgcc2.c:1305
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00060a 0000033c T __udivdi3	/home/haugoug/src/riscv-gnu-toolchain/riscv-gcc/libgcc/libgcc2.c:1317
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c010bc6 0000034a t KerMaxPool2x2Stride2_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Pooling_BasicKernels.c:41
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c011f4a 00000354 T KerParSoftMax_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_SoftMax.c:79
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c000ce0 0000037e T start	/home/bitcraze/projects/gap_sdk/resnet_244/main.c:92
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00adf4 000003ba T S73_Linear_7x64x4x5	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4176
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1b0003e8 00000400 D __rt_fc_stack	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/kernel/conf.c:38
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c001070 0000041a T ReadImageFromFile	/home/bitcraze/projects/gap_sdk/resnet_244/ImgIO.c:147
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c005414 0000042a T S28_MatAdd_16x30x40	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:1588
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0064ae 0000042a T S35_MatAdd_16x30x40	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2030
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c007a18 00000484 T S45_MatAdd_32x15x20	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2631
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c008a0e 00000484 T S52_MatAdd_32x15x20	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3073
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c009ffc 000004b4 T S65_Conv2d_64x64x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3732
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00a4b0 000004b6 T S68_Conv2d_64x64x3x3	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3885
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c008e92 000004c8 T S55_Conv2d_64x32x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3193
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00988a 000004d4 T S61_Conv2d_64x64x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3505
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00935a 00000530 T S58_Conv2d_64x32x1x1	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:3346
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0015da 0000058c T S4_Conv2d_8x1x7x7_MaxPool_3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:7
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c006eba 000005a6 T S41_Conv2d_32x16x1x1	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2311
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0028f2 000005b2 T S11_MatAdd_8x60x80	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:513
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c003c30 000005b2 T S18_MatAdd_8x60x80	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:975
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c007460 000005b8 T S44_Conv2d_32x32x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2470
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c007e9c 000005b8 T S48_Conv2d_32x32x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2751
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c008454 000005ba T S51_Conv2d_32x32x3x3	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2912
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c004812 000005ca T S24_Conv2d_16x8x1x1	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:1268
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0068d8 000005e2 T S38_Conv2d_32x16x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:2150
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c002ea4 00000618 T S14_Conv2d_8x8x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:645
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c001b66 00000618 T S7_Conv2d_8x8x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:183
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0041e2 00000630 T S21_Conv2d_16x8x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:1107
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c004ddc 00000638 T S27_Conv2d_16x16x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:1427
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00583e 00000638 T S31_Conv2d_16x16x3x3_Relu	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:1708
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c005e76 00000638 T S34_Conv2d_16x16x3x3	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:1869
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00217e 00000774 T S10_Conv2d_8x8x3x3	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:344
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0034bc 00000774 T S17_Conv2d_8x8x3x3	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:806
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c0103fa 000007cc t KerAvgPoolNxNStrideS_Border_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Pooling_BasicKernels.c:457
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00fc26 000007d4 t KerMaxPoolNxNStrideS_Border_fp	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Pooling_BasicKernels.c:160
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c013c18 000008d6 t body	/home/bitcraze/projects/gap_sdk/rtos/pmsis/pmsis_bsp/crc/md5.c:100
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00eb8a 0000092e t KerConvNxNStrideS_Border_DP_fp.constprop.102	/home/bitcraze/projects/gap_sdk/tools/autotiler_v3/CNN_Libraries/CNN_Conv_DP_BasicKernels.c:6735
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c017b56 00000ab6 T _prf	/home/bitcraze/projects/gap_sdk/rtos/pulp/pulp-os/libs/io/prf.c:437
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00cd3e 00000d3c T resnetCNN	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4779
+/home/bitcraze/projects/gap_sdk/resnet_244/BUILD/GAP8_V2/GCC_RISCV/resnet:1c00b35e 00001964 T resnetCNN_Construct	/home/bitcraze/projects/gap_sdk/resnet_244/BUILD_MODEL_16BIT/resnetKernels.c:4316
